@@ -9,9 +9,11 @@ Recommender Systems Demo: https://buddyplaylistgenerator.herokuapp.com/home
 
 Reinforcement Learning Demo: 
   https://github.com/rfeinman/tictactoe-reinforcement-learning
+  
   https://manan-d8.github.io/GeneticRockets/
   
 Natural Language Processing Demo:
   https://youtu.be/UYuNUhYGp2I
+  
   https://youtu.be/4h4WihrhAPM
 
