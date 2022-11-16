@@ -7,13 +7,15 @@ Computer Vision Demo: It is present as a file in the same directory "Epoch - Com
 
 Recommender Systems Demo: https://buddyplaylistgenerator.herokuapp.com/home
 
-Reinforcement Learning Demo: 
-  https://github.com/rfeinman/tictactoe-reinforcement-learning
+Reinforcement Learning Demo:
+
+  1. https://github.com/rfeinman/tictactoe-reinforcement-learning
   
-  https://manan-d8.github.io/GeneticRockets/
+  2. https://manan-d8.github.io/GeneticRockets/
   
 Natural Language Processing Demo:
-  https://youtu.be/UYuNUhYGp2I
   
-  https://youtu.be/4h4WihrhAPM
+  1. https://youtu.be/UYuNUhYGp2I
+  
+  2. https://youtu.be/4h4WihrhAPM
 
